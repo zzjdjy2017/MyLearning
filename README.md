@@ -1,1 +1,1 @@
-This repository is used to save some important information, which was omitted before, during work and learning. 
+This repository is used to save some important information during my work and learning. The information includes misunderstood and new knoweledge.
